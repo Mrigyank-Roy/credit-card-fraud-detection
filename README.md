@@ -52,7 +52,3 @@ The performance of the models on the test data is as follows:
 * **Decision Tree Accuracy:** The notebook provides precision, recall, and f1-score, with an overall accuracy of approximately 99.93% on the test set.
 * **Support Vector Machine (SVM) Accuracy:** 94.59%
 
----
-## 🙏 Acknowledgements
-
-This project is for educational purposes and is based on the "Credit Card Fraud Detection" dataset from Kaggle.
